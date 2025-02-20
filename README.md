@@ -37,11 +37,11 @@ Vellore Institute of Technology | 2019 - 2023
 - **[Movie Poster Genre Classification](https://github.com/Namratha2301/Movie-Poster-Genre-Classification)** - Classifies movie genres based on movie posters using machine learning techniques.  
 - **[Satellite Orbit Prediction using Machine Learning](https://github.com/Namratha2301/satellite_orbit_prediction)** - Predicts satellite orbits using advanced machine learning models.  
 - **[Cognitive Emotion Identification](https://github.com/Namratha2301/CognitiveEmotion)** - Identifies emotions from EEG activity using machine learning models.  
-### Software Development & UI/UX Projects  
-- **[LinkTree Clone](https://github.com/Namratha2301/linktree-clone)** - A Streamlit-based personal link-sharing application.  
-- **[BMI App](https://github.com/Namratha2301/bmi-app)** - A simple BMI and fat percentage calculator built with Streamlit.  
+### Software Development & UI/UX Projects   
 - **[Outlearn Internship Project](https://github.com/Namratha2301/outlearn-internship)** - Designed UI/UX elements, graphics, and frontend development using HTML and CSS.  
-- **[DRDO Internship Project](https://github.com/Namratha2301/drdo-internship)** - A GUI-based application for tracking, analyzing, and visualizing weapon data, built using C++ and Qt.  
+- **[DRDO Internship Project](https://github.com/Namratha2301/drdo-internship)** - A GUI-based application for tracking, analyzing, and visualizing weapon data, built using C++ and Qt.
+- **[LinkTree Clone](https://github.com/Namratha2301/linktree-clone)** - A Streamlit-based personal link-sharing application.  
+- **[BMI App](https://github.com/Namratha2301/bmi-app)** - A simple BMI and fat percentage calculator built with Streamlit. 
 
 ### R Programs  
 - **[Data Cleaning](https://github.com/Namratha2301/r_programs)** - Performs data preprocessing on a car price prediction dataset.  
