@@ -35,7 +35,8 @@ Vellore Institute of Technology | 2019 - 2023
 - **[Cognitive Emotion Identification](https://github.com/Namratha2301/CognitiveEmotion)** - Identifies emotions from EEG activity using machine learning models.  
 - **[Music Genre Classification Using Federated Learning](https://github.com/Namratha2301/music-genre-classification-)** - Enables decentralized training on audio data while preserving user privacy.  
 - **[Movie Poster Genre Classification](https://github.com/Namratha2301/Movie-Poster-Genre-Classification)** - Classifies movie genres based on movie posters using machine learning techniques.  
-
+- **[Satellite Orbit Prediction using Machine Learning](https://github.com/Namratha2301/satellite_orbit_prediction)** - Predicts satellite orbits using advanced machine learning models.  
+- **[Cognitive Emotion Identification](https://github.com/Namratha2301/CognitiveEmotion)** - Identifies emotions from EEG activity using machine learning models.  
 ### Software Development & UI/UX Projects  
 - **[LinkTree Clone](https://github.com/Namratha2301/linktree-clone)** - A Streamlit-based personal link-sharing application.  
 - **[BMI App](https://github.com/Namratha2301/bmi-app)** - A simple BMI and fat percentage calculator built with Streamlit.  
