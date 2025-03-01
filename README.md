@@ -44,7 +44,7 @@ Vellore Institute of Technology | 2019 - 2023
 - **[BMI App](https://github.com/Namratha2301/bmi-app)** - A simple BMI and fat percentage calculator built with Streamlit. 
 
 ### R Programs  
-- **[Data Cleaning](https://github.com/Namratha2301/r_programs)** - Performs data preprocessing on a car price prediction dataset.  
+- **[Data Cleaning](https://github.com/Namratha2301/r_programs)** - Performs data preprocessing and data analysis on a 'Mass Shootings' and 'Supreme Court Voting' datatsets.
 
 ### Data Analysis & Dashboards  
 - **[Car Price Analysis and Prediction](https://github.com/Namratha2301/CarPrice_AnalysisAndPrediction)** - Analyzes vehicle prices based on attributes like engine capacity, power, mileage, and seating.  
