@@ -28,25 +28,34 @@ Cornell University | 2023 - 2025
 Vellore Institute of Technology | 2019 - 2023  
 
 ---
+## Internships  
+
+- **[IISc Internship](https://github.com/Namratha2301/quantum-computing-internship)** - Researched and implemented quantum CNN algorithms, focusing on quantum computing applications.  
+- **[DRDO Internship](https://github.com/Namratha2301/drdo-internship)** - Developed a GUI-based application for tracking, analyzing, and visualizing weapon data using C++ and Qt.  
+- **[ITC Internship](https://github.com/Namratha2301/itc-internship)** - Created software solutions for optimizing logistics and supply chain operations at ITC.  
+- **[Outlearn Internship](https://github.com/Namratha2301/outlearn-internship)** - Designed UI/UX elements, graphics, and frontend development using HTML and CSS.  
+
 
 ## Projects  
 
 ### Machine Learning Projects  
+- - **[Quantum Convolutional Neural Network for Object Detection and Classification](https://github.com/Namratha2301/quantum-computing-internship)** -  investigates the use of Quantum Convolutional Neural Networks (QCNNs) for object detection and classification. 
 - **[Cognitive Emotion Identification](https://github.com/Namratha2301/CognitiveEmotion)** - Identifies emotions from EEG activity using machine learning models.  
 - **[Music Genre Classification Using Federated Learning](https://github.com/Namratha2301/music-genre-classification-)** - Enables decentralized training on audio data while preserving user privacy.  
 - **[Movie Poster Genre Classification](https://github.com/Namratha2301/Movie-Poster-Genre-Classification)** - Classifies movie genres based on movie posters using machine learning techniques.  
 - **[Satellite Orbit Prediction using Machine Learning](https://github.com/Namratha2301/satellite_orbit_prediction)** - Predicts satellite orbits using advanced machine learning models.  
-- **[Cognitive Emotion Identification](https://github.com/Namratha2301/CognitiveEmotion)** - Identifies emotions from EEG activity using machine learning models.  
+- 
 ### Software Development & UI/UX Projects   
-- **[Outlearn Internship Project](https://github.com/Namratha2301/outlearn-internship)** - Designed UI/UX elements, graphics, and frontend development using HTML and CSS.  
 - **[DRDO Internship Project](https://github.com/Namratha2301/drdo-internship)** - A GUI-based application for tracking, analyzing, and visualizing weapon data, built using C++ and Qt.
 - **[LinkTree Clone](https://github.com/Namratha2301/linktree-clone)** - A Streamlit-based personal link-sharing application.  
-- **[BMI App](https://github.com/Namratha2301/bmi-app)** - A simple BMI and fat percentage calculator built with Streamlit. 
+- **[BMI App](https://github.com/Namratha2301/bmi-app)** - A simple BMI and fat percentage calculator built with Streamlit.
+- **[Outlearn Internship Project](https://github.com/Namratha2301/outlearn-internship)** - Designed UI/UX elements, graphics, and frontend development using HTML and CSS.  
 
 ### R Programs  
 - **[Data Cleaning](https://github.com/Namratha2301/r_programs)** - Performs data preprocessing and data analysis on a 'Mass Shootings' and 'Supreme Court Voting' datatsets.
 
 ### Data Analysis & Dashboards  
+- **[ITC Internship Project](https://github.com/Namratha2301/itc-internship)** - Developed software solutions for optimizing logistics and supply chain operations at ITC.  
 - **[Car Price Analysis and Prediction](https://github.com/Namratha2301/CarPrice_AnalysisAndPrediction)** - Analyzes vehicle prices based on attributes like engine capacity, power, mileage, and seating.  
 - **[Stack Overflow Developer Survey Analysis](https://github.com/Namratha2301/stackoverflow-analysis)** - Unveils trends in developer demographics, job satisfaction, and salary.  
 - **[Starbucks Global Presence Analysis](https://github.com/Namratha2301/starbucks_global_presence)** - Visualizes Starbucks' store locations worldwide.  
