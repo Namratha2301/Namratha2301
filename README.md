@@ -7,6 +7,13 @@ I am a **Computer Science** graduate student at **Cornell University** with a st
 📄 **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=XGkVFoQAAAAJ&hl=en)  
 
 ---
+## Current Role  
+
+### **Lead Graduate Teaching and Research Assistant** *(January 2025 – Present)*  
+- **Teaching Assistant**: CS 1110 – *Introduction to Computing: Python*, overseeing ~512 students in Python programming.  
+- **Teaching Assistant & Consultant**: STSCI 5065 – *Big Data Management and Analysis*.  
+
+---
 
 ## Skills  
 
