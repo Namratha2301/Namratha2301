@@ -39,7 +39,7 @@ Vellore Institute of Technology | 2019 - 2023
 ## Projects  
 
 ### Machine Learning Projects  
-- - **[Quantum Convolutional Neural Network for Object Detection and Classification](https://github.com/Namratha2301/quantum-computing-internship)** -  investigates the use of Quantum Convolutional Neural Networks (QCNNs) for object detection and classification. 
+- **[Quantum Convolutional Neural Network for Object Detection and Classification](https://github.com/Namratha2301/quantum-computing-internship)** -  investigates the use of Quantum Convolutional Neural Networks (QCNNs) for object detection and classification. 
 - **[Cognitive Emotion Identification](https://github.com/Namratha2301/CognitiveEmotion)** - Identifies emotions from EEG activity using machine learning models.  
 - **[Music Genre Classification Using Federated Learning](https://github.com/Namratha2301/music-genre-classification-)** - Enables decentralized training on audio data while preserving user privacy.  
 - **[Movie Poster Genre Classification](https://github.com/Namratha2301/Movie-Poster-Genre-Classification)** - Classifies movie genres based on movie posters using machine learning techniques.  
