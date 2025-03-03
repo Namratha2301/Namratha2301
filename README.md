@@ -3,7 +3,7 @@
 ## About Me  
 I am a **Computer Science** graduate student at **Cornell University** with a strong focus on **Machine Learning, Data Science, Software Development, and UI/UX Design**. My expertise lies in building impactful projects that integrate technology and creativity.  
 
-📂 **Portfolio**: [namrathameedinti.my.canva.site](https://namrathameedinti.my.canva.site)  
+📂 **Data Portfolio**: [namrathameedinti.my.canva.site](https://namrathameedinti.my.canva.site)  
 📄 **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=XGkVFoQAAAAJ&hl=en)  
 
 ---
