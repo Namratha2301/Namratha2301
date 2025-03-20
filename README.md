@@ -62,7 +62,7 @@ Vellore Institute of Technology | 2019 - 2023
 - **[Data Cleaning](https://github.com/Namratha2301/r_programs)** - Performs data preprocessing and data analysis on a 'Mass Shootings' and 'Supreme Court Voting' datatsets.
 
 ### Data Analysis & Dashboards  
-- **[ITC Internship Project](https://github.com/Namratha2301/itc-internship)** - Developed software solutions for optimizing logistics and supply chain operations at ITC.  
+- **[ITC Internship Project](https://github.com/Namratha2301/itc-internship)** - Developed data-driven solutions for optimizing logistics and supply chain operations at ITC.  
 - **[Car Price Analysis and Prediction](https://github.com/Namratha2301/CarPrice_AnalysisAndPrediction)** - Analyzes vehicle prices based on attributes like engine capacity, power, mileage, and seating.  
 - **[Stack Overflow Developer Survey Analysis](https://github.com/Namratha2301/stackoverflow-analysis)** - Unveils trends in developer demographics, job satisfaction, and salary.  
 - **[Starbucks Global Presence Analysis](https://github.com/Namratha2301/starbucks_global_presence)** - Visualizes Starbucks' store locations worldwide.  
