@@ -39,7 +39,7 @@ Vellore Institute of Technology | 2019 - 2023
 
 - **[IISc Internship](https://github.com/Namratha2301/quantum-computing-internship)** - Researched and implemented quantum CNN algorithms, focusing on quantum computing applications.  
 - **[DRDO Internship](https://github.com/Namratha2301/drdo-internship)** - Developed a GUI-based application for tracking, analyzing, and visualizing weapon data using C++ and Qt.  
-- **[ITC Internship](https://github.com/Namratha2301/itc-internship)** - Created software solutions for optimizing logistics and supply chain operations at ITC.  
+- **[ITC Internship](https://github.com/Namratha2301/itc-internship)** - Created data-driven solutions for optimizing logistics and supply chain operations at ITC.  
 - **[Outlearn Internship](https://github.com/Namratha2301/outlearn-internship)** - Designed UI/UX elements, graphics, and frontend development using HTML and CSS.  
 
 
