@@ -70,7 +70,7 @@ Vellore Institute of Technology | 2019 - 2023
 - **[British Airways Customer Feedback Analysis](https://github.com/Namratha2301/british_airways_analysis)** - Analyzes customer feedback trends for British Airways from 2016 to 2023.  
 - **[Sales and Order Analysis Dashboard](https://github.com/Namratha2301/sales-orders-analysis)** - Visualizes sales trends across regions, customer segments, and product categories.  
 - **[Best Selling Books Dashboard](https://github.com/Namratha2301/best-selling-books)** - Explores top-selling books and genre trends using Streamlit.  
-- **[Pizza Sales Report](https://github.com/Namratha2301/pizza-sales)** - Identifies revenue trends and peak sales periods for pizza sales data.  
+- **[Pizza Sales Report](https://github.com/Namratha2301/pizza_sales)** - Identifies revenue trends and peak sales periods for pizza sales data.  
 
 ---
 
