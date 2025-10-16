@@ -51,7 +51,7 @@ Vellore Institute of Technology | 2019 - 2023
 - **[Music Genre Classification Using Federated Learning](https://github.com/Namratha2301/music-genre-classification-)** - Enables decentralized training on audio data while preserving user privacy.  
 - **[Movie Poster Genre Classification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XGkVFoQAAAAJ&citation_for_view=XGkVFoQAAAAJ:9yKSN-GCB0IC)** - Classifies movie genres based on movie posters using machine learning techniques.  
 - **[Satellite Orbit Prediction using Machine Learning](https://github.com/Namratha2301/satellite_orbit_prediction)** - Predicts satellite orbits using advanced machine learning models.  
-- 
+  
 ### Software Development & UI/UX Projects   
 - **[DRDO Internship Project](https://github.com/Namratha2301/drdo-internship)** - A GUI-based application for tracking, analyzing, and visualizing weapon data, built using C++ and Qt.
 - **[LinkTree Clone](https://github.com/Namratha2301/linktree-clone)** - A Streamlit-based personal link-sharing application.  
