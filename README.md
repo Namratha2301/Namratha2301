@@ -1,15 +1,25 @@
 # Namratha 
 
 ## About Me  
-I am a **Computer Science** graduate student at **Cornell University** with a strong focus on **Machine Learning, Data Science, Software Development, and UI/UX Design**. My expertise lies in building impactful projects that integrate technology and creativity.  
-
+I’m a Computer Science graduate with a strong foundation in Machine Learning, Data Science, Software Development, and UI/UX Design. I’m passionate about building data-driven, user-focused solutions that bridge technology and creativity.
 📂 **Data Portfolio**: [namrathameedinti.my.canva.site](https://namrathameedinti.my.canva.site)  
 📄 **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=XGkVFoQAAAAJ&hl=en)  
 
 ---
+
+## Education  
+
+**Master’s in Computer Science**  
+Cornell University | 2023 - 2025  
+
+**Bachelor’s in Computer Science with a Minor in Business**  
+Vellore Institute of Technology | 2019 - 2023  
+
+---
+
 ## 💼 **Experience**
 
-### 🧠 **Software Engineer — Cox Communications**  
+### **Software Engineer — Cox Communications**  
 📍 *Atlanta, GA | July 2025 – Present*  
 - Engineered **end-to-end automated patching solutions** for enterprise data platforms using **Ansible**, **Jenkins CI/CD**, and **New Relic**, reducing manual intervention across 500+ servers and shortening patch cycles by **60%**.  
 - Built **multi-stage automation pipelines** integrating **ServiceNow**, **email alerts**, and **real-time dashboards**, enabling **zero-downtime deployments** through automated service orchestration and HTML reporting.  
@@ -17,7 +27,7 @@ I am a **Computer Science** graduate student at **Cornell University** with a st
 
 ---
 
-### 🎓 **Lead Graduate Teaching & Research Assistant — Cornell University**  
+### **Lead Graduate Teaching & Research Assistant — Cornell University**  
 📍 *Ithaca, NY | Aug 2023 – May 2025*  
 - Led instruction for **CS 1110: Introduction to Computing (Python)**, mentoring ~512 students in **algorithms**, **data structures**, and **software engineering best practices**.  
 - Teaching Assistant for **STSCI 5065: Big Data Management and Analysis**, guiding labs on **Hadoop**, **Hive**, and **HBase**.  
@@ -25,21 +35,21 @@ I am a **Computer Science** graduate student at **Cornell University** with a st
 
 ---
 
-### 🧬 **Machine Learning Researcher — Indian Institute of Science (IISc)**  
+### **Machine Learning Researcher — Indian Institute of Science (IISc)**  
 📍 *Bengaluru, India | Aug 2022 – May 2023*  
 - Developed **Quantum CNN models**, boosting classification accuracy by **35%**.  
 - Designed **deep learning pipelines** for advanced image classification using **TensorFlow** and **PyTorch**.  
 
 ---
 
-### 📊 **Data Science Intern — ITC Ltd.**  
+### **Data Science Intern — ITC Ltd.**  
 📍 *Hyderabad, India | Oct 2021 – Dec 2021*  
 - Built **Python-based optimization models (K-Means, ARIMA)** for FMCG distribution networks, reducing delivery variance by **15%**.  
 - Created **predictive ROI models** with **SQL**, **Python**, and **Tableau** to guide strategic investment decisions.  
 
 ---
 
-### ⚙️ **Software Development Intern — DRDO (Defense Research & Development Organization)**  
+### **Software Development Intern — DRDO (Defense Research & Development Organization)**  
 📍 *Hyderabad, India | July 2021 – Sept 2021*  
 - Designed a **real-time data processing system** handling 1,000+ records/min with **automated alerting mechanisms**.  
 - Developed an **interactive dashboard UI**, improving user accessibility and satisfaction by **25%**.  
@@ -56,15 +66,6 @@ I am a **Computer Science** graduate student at **Cornell University** with a st
 - **Design & Prototyping**: Figma, Adobe Illustrator  
 - **Cloud & DevOps**: AWS, Azure, Docker  
 
----
-
-## Education  
-
-**Master’s in Computer Science**  
-Cornell University | 2023 - 2025  
-
-**Bachelor’s in Computer Science with a Minor in Business**  
-Vellore Institute of Technology | 2019 - 2023  
 
 ---
 ## Internships  
