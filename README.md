@@ -7,11 +7,43 @@ I am a **Computer Science** graduate student at **Cornell University** with a st
 📄 **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=XGkVFoQAAAAJ&hl=en)  
 
 ---
-## Current Role  
+## 💼 **Experience**
 
-### **Lead Graduate Teaching and Research Assistant** *(January 2025 – Present)*  
-- **Teaching Assistant**: CS 1110 – *Introduction to Computing: Python*, overseeing ~512 students in Python programming.  
-- **Teaching Assistant & Consultant**: STSCI 5065 – *Big Data Management and Analysis*.  
+### 🧠 **Software Engineer — Cox Communications**  
+📍 *Atlanta, GA | July 2025 – Present*  
+- Engineered **end-to-end automated patching solutions** for enterprise data platforms using **Ansible**, **Jenkins CI/CD**, and **New Relic**, reducing manual intervention across 500+ servers and shortening patch cycles by **60%**.  
+- Built **multi-stage automation pipelines** integrating **ServiceNow**, **email alerts**, and **real-time dashboards**, enabling **zero-downtime deployments** through automated service orchestration and HTML reporting.  
+- Collaborated with cross-functional **DevOps** teams to enhance **CI/CD reliability**, implement automated validation checks, and improve system uptime.  
+
+---
+
+### 🎓 **Lead Graduate Teaching & Research Assistant — Cornell University**  
+📍 *Ithaca, NY | Aug 2023 – May 2025*  
+- Led instruction for **CS 1110: Introduction to Computing (Python)**, mentoring ~512 students in **algorithms**, **data structures**, and **software engineering best practices**.  
+- Teaching Assistant for **STSCI 5065: Big Data Management and Analysis**, guiding labs on **Hadoop**, **Hive**, and **HBase**.  
+- Automated grading workflows using **Python (Pandas, NumPy)**, improving turnaround time by **40%**, and collaborated on research in **data-driven system design**.  
+
+---
+
+### 🧬 **Machine Learning Researcher — Indian Institute of Science (IISc)**  
+📍 *Bengaluru, India | Aug 2022 – May 2023*  
+- Developed **Quantum CNN models**, boosting classification accuracy by **35%**.  
+- Designed **deep learning pipelines** for advanced image classification using **TensorFlow** and **PyTorch**.  
+
+---
+
+### 📊 **Data Science Intern — ITC Ltd.**  
+📍 *Hyderabad, India | Oct 2021 – Dec 2021*  
+- Built **Python-based optimization models (K-Means, ARIMA)** for FMCG distribution networks, reducing delivery variance by **15%**.  
+- Created **predictive ROI models** with **SQL**, **Python**, and **Tableau** to guide strategic investment decisions.  
+
+---
+
+### ⚙️ **Software Development Intern — DRDO (Defense Research & Development Organization)**  
+📍 *Hyderabad, India | July 2021 – Sept 2021*  
+- Designed a **real-time data processing system** handling 1,000+ records/min with **automated alerting mechanisms**.  
+- Developed an **interactive dashboard UI**, improving user accessibility and satisfaction by **25%**.  
+  
 
 ---
 
