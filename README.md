@@ -2,6 +2,7 @@
 
 ## About Me  
 I’m a Computer Science graduate with a strong foundation in Machine Learning, Data Science, Software Development, and UI/UX Design. I’m passionate about building data-driven, user-focused solutions that bridge technology and creativity.
+
 📂 **Data Portfolio**: [namrathameedinti.my.canva.site](https://namrathameedinti.my.canva.site)  
 📄 **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=XGkVFoQAAAAJ&hl=en)  
 
