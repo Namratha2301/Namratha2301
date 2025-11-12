@@ -1,4 +1,4 @@
-# Namratha 
+# Gowri Namratha Meedinti
 
 ## About Me  
 I’m a Computer Science graduate with a strong foundation in Machine Learning, Data Science, Software Development, and UI/UX Design. I’m passionate about building data-driven, user-focused solutions that bridge technology and creativity.
