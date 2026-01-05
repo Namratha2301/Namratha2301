@@ -32,7 +32,7 @@ Vellore Institute of Technology | 2019 - 2023
 📍 *Ithaca, NY | Aug 2023 – May 2025*  
 - Led instruction for **CS 1110: Introduction to Computing (Python)**, mentoring ~512 students in **algorithms**, **data structures**, and **software engineering best practices**.  
 - Teaching Assistant for **STSCI 5065: Big Data Management and Analysis**, guiding labs on **Hadoop**, **Hive**, and **HBase**.  
-- Automated grading workflows using **Python (Pandas, NumPy)**, improving turnaround time by **40%**, and collaborated on research in **data-driven system design**.  
+- Automated grading workflows using **Python**, improving turnaround time by **40%**, and collaborated on research in **data-driven system design**.  
 
 ---
 
